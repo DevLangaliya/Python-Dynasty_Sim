@@ -2,8 +2,6 @@
 
 Below is a list of commands that can be used within the simulation
 
-- "scouting" opens the years list of prospects, and lets you see their stats
-    - When combine results are available, you will be able to see more stats such as bench press score and 40-yard dash times
 - "free agents" opens up the free agents menu, where you can select and sign free agents to your team
 - "game" begins the weekly game loop (lets you either simulate or see the play-by-play)
 - "schedule" shows the user what the matchups for the specific week are
